@@ -37,4 +37,9 @@ NVIDIA 에서 만든 딥러닝 강의 영상들이네요. 도움이 많이 될 �
 
   * [비디오 링크](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
   
+### CS231n: Convolutional Neural Networks for Visual Recognition
+Stanford의 2016년 1~2월에 걸쳐 진행 중인 Deep Learning강의입니다.
+특히 Image Classification에 특화되어있는데 강의에 2015년말 MS의 RESnet은 물론 2016년 1월 논문까지도 포함되서
+뜨끈뜨근한 내용도 함께 포함되어 있어 좋은것 같네요~ (숙제도 해보면서 실습하면 여로모로 도움이 되는듯 합니다)
 
+  * [비디오 링크(Lecuure Note + Youtube)](http://cs231n.stanford.edu/syllabus.html)
